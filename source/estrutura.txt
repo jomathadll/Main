@@ -1,0 +1,1159 @@
+Listagem de caminhos de pasta
+O n£mero de s‚rie do volume ‚ 58E6-63FB
+C:.
+|   AutoPotion.cpp
+|   AutoPotion.h
+|   BaseCls.h
+|   BlackWin.cpp
+|   BlackWin.h
+|   BoneManager.cpp
+|   BoneManager.h
+|   BuffColorBK.cpp
+|   BuffColorBK.h
+|   BuffColorSM.cpp
+|   BuffColorSM.h
+|   Button.cpp
+|   Button.h
+|   Camera3D.cpp
+|   Camera3D.h
+|   CameraMove.cpp
+|   CameraMove.h
+|   CBTMessageBox.cpp
+|   CBTMessageBox.h
+|   CComGem.cpp
+|   CComGem.h
+|   CCRC32.cpp
+|   CCRC32.h
+|   CDirection.cpp
+|   CDirection.h
+|   CGFxFontConfigParser.cpp
+|   CGFxFontConfigParser.h
+|   CGFxInfoPopup.cpp
+|   CGFxInfoPopup.h
+|   CGFxMainUi.cpp
+|   CGFxMainUi.h
+|   CGFxProcess.cpp
+|   CGFxProcess.h
+|   CGFxSample.cpp
+|   CGFxSample.h
+|   ChangeRingManager.cpp
+|   ChangeRingManager.h
+|   ChaosGenesis.cpp
+|   ChaosGenesis.h
+|   CharacterList.cpp
+|   CharacterList.h
+|   CharacterManager.cpp
+|   CharacterManager.h
+|   Charactername.cpp
+|   Charactername.h
+|   CharInfoBalloon.cpp
+|   CharInfoBalloon.h
+|   CharInfoBalloonMng.cpp
+|   CharInfoBalloonMng.h
+|   CharMakeWin.cpp
+|   CharMakeWin.h
+|   CharSelMainWin.cpp
+|   CharSelMainWin.h
+|   CKANTURUDirection.cpp
+|   CKANTURUDirection.h
+|   CMVP1stDirection.cpp
+|   CMVP1stDirection.h
+|   Controller.cpp
+|   Controller.h
+|   CounterItem.cpp
+|   CounterItem.h
+|   CreateFont.cpp
+|   CreateFont.h
+|   CreditWin.cpp
+|   CreditWin.h
+|   CSChaosCastle.cpp
+|   CSChaosCastle.h
+|   CSEventMatch.cpp
+|   CSEventMatch.h
+|   CSItemOption.cpp
+|   CSItemOption.h
+|   CSMapServer.cpp
+|   CSMapServer.h
+|   CSParts.cpp
+|   CSParts.h
+|   CSPetSystem.cpp
+|   CSPetSystem.h
+|   CSQuest.cpp
+|   CSQuest.h
+|   CSResourceManager.cpp
+|   CSWaterTerrain.cpp
+|   CSWaterTerrain.h
+|   CustomBow.cpp
+|   CustomBow.h
+|   CustomButtons.cpp
+|   CustomButtons.h
+|   CustomCape.cpp
+|   CustomCape.h
+|   CustomColorChat.cpp
+|   CustomColorChat.h
+|   CustomEarthQuakeSkill.cpp
+|   CustomEarthQuakeSkill.h
+|   CustomEffects.cpp
+|   CustomEffects.h
+|   CustomEye.cpp
+|   CustomEye.h
+|   CustomItemEdge.cpp
+|   CustomItemEdge.h
+|   CustomItemFloor.cpp
+|   CustomItemFloor.h
+|   CustomItemForce.cpp
+|   CustomItemForce.h
+|   CustomJewel.cpp
+|   CustomJewel.h
+|   CustomJewelStack.cpp
+|   CustomJewelStack.h
+|   CustomMeshGlow.cpp
+|   CustomMeshGlow.h
+|   CustomModelAction.cpp
+|   CustomModelAction.h
+|   CustomRingTransform.cpp
+|   CustomRingTransform.h
+|   CustomSetAction.cpp
+|   CustomSetAction.h
+|   CustomSetEffect.cpp
+|   CustomSetEffect.h
+|   CustomTitleItem.cpp
+|   CustomTitleItem.h
+|   CustomWing.cpp
+|   CustomWing.h
+|   DarkSpirit.cpp
+|   DarkSpirit.h
+|   DarkSpiritView.cpp
+|   DarkSpiritView.h
+|   DeathStabColor.cpp
+|   DeathStabColor.h
+|   Define.h
+|   Defined_Global.h
+|   Descriptions.cpp
+|   Descriptions.h
+|   DisableExcellent.cpp
+|   DisableExcellent.h
+|   DrawBarItem.cpp
+|   DrawBarItem.h
+|   DSplaysound.cpp
+|   DSPlaySound.h
+|   DSwaveIO.cpp
+|   DSwaveIO.h
+|   DSWavRead.h
+|   DuelMgr.cpp
+|   DuelMgr.h
+|   ElementPet.cpp
+|   ElementPet.h
+|   estrutura.txt
+|   Event.cpp
+|   Event.h
+|   FxPlayerLog.h
+|   GambleSystem.cpp
+|   GambleSystem.h
+|   GameCensorship.cpp
+|   GameCensorship.h
+|   GaugeBar.cpp
+|   GaugeBar.h
+|   GCCertification.cpp
+|   GCCertification.h
+|   GIPetManager.cpp
+|   GIPetManager.h
+|   GlobalBitmap.cpp
+|   GlobalBitmap.h
+|   GlobalPortalSystem.cpp
+|   GlobalPortalSystem.h
+|   GlobalText.h
+|   GM3rdChangeUp.cpp
+|   GM3rdChangeUp.h
+|   GMAida.cpp
+|   GMAida.h
+|   GMBattleCastle.cpp
+|   GMBattleCastle.h
+|   GMCryingWolf2nd.cpp
+|   GMCryingWolf2nd.h
+|   GMCrywolf1st.cpp
+|   GMCrywolf1st.h
+|   GMDoppelGanger1.cpp
+|   GMDoppelGanger1.h
+|   GMDoppelGanger2.cpp
+|   GMDoppelGanger2.h
+|   GMDoppelGanger3.cpp
+|   GMDoppelGanger3.h
+|   GMDoppelGanger4.cpp
+|   GMDoppelGanger4.h
+|   GMDuelArena.cpp
+|   GMDuelArena.h
+|   GMEmpireGuardian1.cpp
+|   GMEmpireGuardian1.h
+|   GMEmpireGuardian2.cpp
+|   GMEmpireGuardian2.h
+|   GMEmpireGuardian3.cpp
+|   GMEmpireGuardian3.h
+|   GMEmpireGuardian4.cpp
+|   GMEmpireGuardian4.h
+|   GMGmArea.h
+|   GMHellas.cpp
+|   GMHellas.h
+|   GMHuntingGround.cpp
+|   GMHuntingGround.h
+|   GMKarutan1.cpp
+|   GMKarutan1.h
+|   GMNewTown.cpp
+|   GMNewTown.h
+|   GMSantaTown.cpp
+|   GMSantaTown.h
+|   GMSwampOfQuiet.cpp
+|   GMSwampOfQuiet.h
+|   GMUnitedMarketPlace.cpp
+|   GMUnitedMarketPlace.h
+|   GM_kanturu_1st.cpp
+|   GM_Kanturu_1st.h
+|   GM_Kanturu_2nd.cpp
+|   GM_Kanturu_2nd.h
+|   GM_Kanturu_3rd.cpp
+|   GM_Kanturu_3rd.h
+|   GM_PK_Field.cpp
+|   GM_PK_Field.h
+|   GM_Raklion.cpp
+|   GM_Raklion.h
+|   GOBoid.cpp
+|   GOBoid.h
+|   GuildCache.cpp
+|   GuildCache.h
+|   GuildManager.cpp
+|   GuildManager.h
+|   HealthBar.cpp
+|   HealthBar.h
+|   HelperManager.cpp
+|   HelperManager.h
+|   HelperSpeedConfig.cpp
+|   HelperSpeedConfig.h
+|   HelperSystem.cpp
+|   HelperSystem.h
+|   HelperView.cpp
+|   HelperView.h
+|   Hunting.cpp
+|   Hunting.h
+|   Icon.ico
+|   iexplorer.h
+|   Input.cpp
+|   Input.h
+|   ItemAddOptioninfo.cpp
+|   ItemAddOptioninfo.h
+|   ItemBorder.cpp
+|   ItemBorder.h
+|   ItemManager.cpp
+|   ItemManager.h
+|   ItemPosition.cpp
+|   ItemPosition.h
+|   ItemSize.cpp
+|   ItemSize.h
+|   KeyGenerater.cpp
+|   KeyGenerater.h
+|   LauncherHelper.cpp
+|   LauncherHelper.h
+|   LoadData.cpp
+|   LoadData.h
+|   LoadImages.cpp
+|   LoadImages.h
+|   LoadingScene.cpp
+|   LoadingScene.h
+|   Local.cpp
+|   Local.h
+|   LoginMainWin.cpp
+|   LoginMainWin.h
+|   LoginWin.cpp
+|   LoginWin.h
+|   Lua.cpp
+|   Lua.h
+|   LuaBMD.cpp
+|   LuaBMD.h
+|   LuaCharacter.cpp
+|   LuaCharacter.h
+|   LuaCharacterObject.cpp
+|   LuaCharacterObject.h
+|   LuaCloth.cpp
+|   LuaCloth.h
+|   LuaDecrypt.cpp
+|   LuaDecrypt.h
+|   LuaEffects.cpp
+|   LuaEffects.h
+|   LuaEffectsNormal.cpp
+|   LuaEffectsNormal.h
+|   LuaGlobal.cpp
+|   LuaGlobal.h
+|   LuaInterface.cpp
+|   LuaInterface.h
+|   LuaItemObject.cpp
+|   LuaItemObject.h
+|   LuaObject.cpp
+|   LuaObject.h
+|   LuaOpenFolder.cpp
+|   LuaOpenFolder.h
+|   LuaReload.cpp
+|   LuaReload.h
+|   LuaSocket.cpp
+|   LuaSocket.h
+|   LuaStack.hpp
+|   LuaUser.cpp
+|   LuaUser.h
+|   MapManager.cpp
+|   MapManager.h
+|   MatchEvent.cpp
+|   MatchEvent.h
+|   MessageColor.cpp
+|   MessageColor.h
+|   MixMgr.cpp
+|   MixMgr.h
+|   MonkSystem.cpp
+|   MonkSystem.h
+|   MonsterEffect.cpp
+|   MonsterEffect.h
+|   MonsterGlow.cpp
+|   MonsterGlow.h
+|   MonsterItem.cpp
+|   MonsterItem.h
+|   MonsterName.cpp
+|   MonsterName.h
+|   Monsters.cpp
+|   Monsters.h
+|   MoveCommandData.cpp
+|   MoveCommandData.h
+|   MoveWindow.cpp
+|   MoveWindow.h
+|   MovieScene.cpp
+|   MovieScene.h
+|   MsgWin.cpp
+|   MsgWin.h
+|   MultiLanguage.cpp
+|   MultiLanguage.h
+|   NewBloodCastleSystem.cpp
+|   NewBloodCastleSystem.h
+|   NewChaosCastleSystem.cpp
+|   NewChaosCastleSystem.h
+|   NewGatemanWindow.cpp
+|   NewGatemanWindow.h
+|   NewInventory.cpp
+|   NewInventory.h
+|   NewSounds.cpp
+|   NewSounds.h
+|   NewUI3DRenderMng.cpp
+|   NewUI3DRenderMng.h
+|   NewUIBase.h
+|   NewUIBattleSoccerScore.cpp
+|   NewUIBattleSoccerScore.h
+|   NewUIBloodCastleEnter.cpp
+|   NewUIBloodCastleEnter.h
+|   NewUIBloodCastleTime.cpp
+|   NewUIBloodCastleTime.h
+|   NewUIBuffWindow.cpp
+|   NewUIBuffWindow.h
+|   NewUIButton.cpp
+|   NewUIButton.h
+|   NewUICastleWindow.cpp
+|   NewUICastleWindow.h
+|   NewUICatapultWindow.cpp
+|   NewUICatapultWindow.h
+|   NewUIChaosCastleTime.cpp
+|   NewUIChaosCastleTime.h
+|   NewUICharacterInfoWindow.cpp
+|   NewUICharacterInfoWindow.h
+|   NewUIChatInputBox.cpp
+|   NewUIChatInputBox.h
+|   NewUIChatLogWindow.cpp
+|   NewUIChatLogWindow.h
+|   NewUICheckBox.cpp
+|   NewUICheckBox.h
+|   NewUICommandWindow.cpp
+|   NewUICommandWindow.h
+|   NewUICommon.cpp
+|   NewUICommon.h
+|   NewUICommonMessageBox.cpp
+|   NewUICommonMessageBox.h
+|   NewUICryWolf.cpp
+|   NewUICryWolf.h
+|   NewUICursedTempleEnter.cpp
+|   NewUICursedTempleEnter.h
+|   NewUICursedTempleResult.cpp
+|   NewUICursedTempleResult.h
+|   NewUICursedTempleSystem.cpp
+|   NewUICursedTempleSystem.h
+|   NewUICustomMessageBox.cpp
+|   NewUICustomMessageBox.h
+|   NewUIDoppelGangerFrame.cpp
+|   NewUIDoppelGangerFrame.h
+|   NewUIDoppelGangerWindow.cpp
+|   NewUIDoppelGangerWindow.h
+|   NewUIDuelWatchMainFrameWindow.cpp
+|   NewUIDuelWatchMainFrameWindow.h
+|   NewUIDuelWatchUserListWindow.cpp
+|   NewUIDuelWatchUserListWindow.h
+|   NewUIDuelWatchWindow.cpp
+|   NewUIDuelWatchWindow.h
+|   NewUIDuelWindow.cpp
+|   NewUIDuelWindow.h
+|   NewUIEmpireGuardianNPC.cpp
+|   NewUIEmpireGuardianNPC.h
+|   NewUIEmpireGuardianTimer.cpp
+|   NewUIEmpireGuardianTimer.h
+|   NewUIEnterDevilSquare.cpp
+|   NewUIEnterDevilSquare.h
+|   NewUIExchangeLuckyCoin.cpp
+|   NewUIExchangeLuckyCoin.h
+|   NewUIFriendWindow.cpp
+|   NewUIFriendWindow.h
+|   NewUIGatemanWindow.cpp
+|   NewUIGatemanWindow.h
+|   NewUIGateSwitchWindow.cpp
+|   NewUIGateSwitchWindow.h
+|   NewUIGensRanking.cpp
+|   NewUIGensRanking.h
+|   NewUIGoldBowmanLena.cpp
+|   NewUIGoldBowmanLena.h
+|   NewUIGoldBowmanWindow.cpp
+|   NewUIGoldBowmanWindow.h
+|   NewUIGroup.cpp
+|   NewUIGroup.h
+|   NewUIGuardWindow.cpp
+|   NewUIGuardWindow.h
+|   NewUIGuildInfoWindow.cpp
+|   NewUIGuildInfoWindow.h
+|   NewUIGuildMakeWindow.cpp
+|   NewUIGuildMakeWindow.h
+|   NewUIHelpWindow.cpp
+|   NewUIHelpWindow.h
+|   NewUIHeroPositionInfo.cpp
+|   NewUIHeroPositionInfo.h
+|   NewUIHotKey.cpp
+|   NewUIHotKey.h
+|   NewUIInventoryCtrl.cpp
+|   NewUIInventoryCtrl.h
+|   NewUIItemEnduranceInfo.cpp
+|   NewUIItemEnduranceInfo.h
+|   NewUIItemExplanationWindow.cpp
+|   NewUIItemExplanationWindow.h
+|   NewUIItemMng.cpp
+|   NewUIItemMng.h
+|   NewUIKanturuEvent.cpp
+|   NewUIKanturuEvent.h
+|   NewUILuckyItemWnd.cpp
+|   NewUILuckyItemWnd.h
+|   NewUIMainFrameWindow.cpp
+|   NewUIMainFrameWindow.h
+|   NewUIManager.cpp
+|   NewUIManager.h
+|   NewUIMasterLevel.cpp
+|   NewUIMasterLevel.h
+|   NewUIMessageBox.cpp
+|   NewUIMessageBox.h
+|   NewUIMiniMap.cpp
+|   NewUIMiniMap.h
+|   NewUIMixInventory.cpp
+|   NewUIMixInventory.h
+|   NewUIMoveCommandWindow.cpp
+|   NewUIMoveCommandWindow.h
+|   NewUIMyInventory.cpp
+|   NewUIMyInventory.h
+|   NewUIMyQuestInfoWindow.cpp
+|   NewUIMyQuestInfoWindow.h
+|   NewUIMyShopInventory.cpp
+|   NewUIMyShopInventory.h
+|   NewUINameWindow.cpp
+|   NewUINameWindow.h
+|   NewUINPCDialogue.cpp
+|   NewUINPCDialogue.h
+|   NewUINPCQuest.cpp
+|   NewUINPCQuest.h
+|   NewUINPCShop.cpp
+|   NewUINPCShop.h
+|   NewUIOptionWindow.cpp
+|   NewUIOptionWindow.h
+|   NewUIPartyInfoWindow.cpp
+|   NewUIPartyInfoWindow.h
+|   NewUIPartyListWindow.cpp
+|   NewUIPartyListWindow.h
+|   NewUIPetInfoWindow.cpp
+|   NewUIPetInfoWindow.h
+|   NewUIPurchaseShopInventory.cpp
+|   NewUIPurchaseShopInventory.h
+|   NewUIQuestProgress.cpp
+|   NewUIQuestProgress.h
+|   NewUIQuestProgressByEtc.cpp
+|   NewUIQuestProgressByEtc.h
+|   NewUIQuickCommandWindow.cpp
+|   NewUIQuickCommandWindow.h
+|   NewUIRegistrationLuckyCoin.cpp
+|   NewUIRegistrationLuckyCoin.h
+|   NewUIRenderNumber.cpp
+|   NewUIRenderNumber.h
+|   NewUIScrollBar.cpp
+|   NewUIScrollBar.h
+|   NewUISeigeWarfare.cpp
+|   NewUISeigeWarfare.h
+|   NewUISetItemExplanation.cpp
+|   NewUISetItemExplanation.h
+|   NewUISiegeWarBase.cpp
+|   NewUISiegeWarBase.h
+|   NewUISiegeWarCommander.cpp
+|   NewUISiegeWarCommander.h
+|   NewUISiegeWarObserver.cpp
+|   NewUISiegeWarObserver.h
+|   NewUISiegeWarSoldier.cpp
+|   NewUISiegeWarSoldier.h
+|   NewUISlideWindow.cpp
+|   NewUISlideWindow.h
+|   NewUIStorageInventory.cpp
+|   NewUIStorageInventory.h
+|   NewUISystem.cpp
+|   NewUISystem.h
+|   NewUITextBox.cpp
+|   NewUITextBox.h
+|   NewUITrade.cpp
+|   NewUITrade.h
+|   NewUIUnitedMarketPlaceWindow.cpp
+|   NewUIUnitedMarketPlaceWindow.h
+|   NewUIWindowMenu.cpp
+|   NewUIWindowMenu.h
+|   npcBreeder.cpp
+|   npcBreeder.h
+|   npcCatapult.cpp
+|   npcCatapult.h
+|   npcGateSwitch.cpp
+|   npcGateSwitch.h
+|   Nprotect.h
+|   Observer.cpp
+|   Observer.h
+|   OptionWin.cpp
+|   OptionWin.h
+|   PacketManager.cpp
+|   PacketManager.h
+|   PartyBuff.cpp
+|   PartyBuff.h
+|   PartyManager.cpp
+|   PartyManager.h
+|   Patente.cpp
+|   Patente.h
+|   PersonalShopTitleImp.cpp
+|   PersonalShopTitleImp.h
+|   PhysicsManager.cpp
+|   PhysicsManager.h
+|   PlasmaStormColor.cpp
+|   PlasmaStormColor.h
+|   PList.cpp
+|   PList.h
+|   PortalMgr.cpp
+|   PortalMgr.h
+|   Preview.cpp
+|   Preview.h
+|   Protect.cpp
+|   Protect.h
+|   ProtectSysKey.cpp
+|   ProtectSysKey.h
+|   ProtocolAsio.h
+|   ProtocolSend.cpp
+|   ProtocolSend.h
+|   QuestMng.cpp
+|   QuestMng.h
+|   ReadScript.h
+|   Reconnect.cpp
+|   Reconnect.h
+|   RenderModel.cpp
+|   RenderModel.h
+|   resource.aps
+|   resource.h
+|   resource.rc
+|   resourcevoid.h
+|   RuneColorEffect.cpp
+|   RuneColorEffect.h
+|   ServerGroup.cpp
+|   ServerGroup.h
+|   ServerInfo.cpp
+|   ServerInfo.h
+|   ServerListManager.cpp
+|   ServerListManager.h
+|   ServerMsgWin.cpp
+|   ServerMsgWin.h
+|   ServerName.cpp
+|   ServerName.h
+|   ServerSelWin.cpp
+|   ServerSelWin.h
+|   ShadowVolume.cpp
+|   ShadowVolume.h
+|   SideHair.cpp
+|   SideHair.h
+|   SimpleModulus.h
+|   Singleton.h
+|   SkillEffectMgr.cpp
+|   SkillEffectMgr.h
+|   SkillManager.cpp
+|   SkillManager.h
+|   Slider.cpp
+|   Slider.h
+|   SMD.cpp
+|   SMD.h
+|   SMD2BMD.cpp
+|   SocketSystem.cpp
+|   SocketSystem.h
+|   Sprite.cpp
+|   Sprite.h
+|   StdAfx.cpp
+|   stdafx.h
+|   StlDefinition.h
+|   StreamPacketEngine.h
+|   stringset.h
+|   SummoneEffect.cpp
+|   SummonEffect.h
+|   SummonSystem.cpp
+|   SummonSystem.h
+|   SysMenuWin.cpp
+|   SysMenuWin.h
+|   TestEventMap.cpp
+|   TestEventMap.h
+|   TextureScript.cpp
+|   TextureScript.h
+|   TradeX.cpp
+|   TradeX.h
+|   TradeXbkp.cpp
+|   TradeXbkp.h
+|   UIBaseDef.h
+|   UIControls.cpp
+|   UIControls.h
+|   UIDefaultBase.cpp
+|   UIDefaultBase.h
+|   UIGateKeeper.cpp
+|   UIGateKeeper.h
+|   UIGuardsMan.cpp
+|   UIGuardsMan.h
+|   UIGuild.h
+|   UIGuildInfo.cpp
+|   UIGuildInfo.h
+|   UIGuildMaster.cpp
+|   UIGuildMaster.h
+|   UIJewelHarmony.cpp
+|   UIJewelHarmony.h
+|   UIManager.cpp
+|   UIManager.h
+|   UIMapName.cpp
+|   UIMapName.h
+|   UIMng.cpp
+|   UIMng.h
+|   UIPopup.cpp
+|   UIPopup.h
+|   UISenatus.cpp
+|   UISenatus.h
+|   UIWindows.cpp
+|   UIWindows.h
+|   UsefulDef.cpp
+|   UsefulDef.h
+|   VisualDescriptions.cpp
+|   VisualDescriptions.h
+|   WideScreen.cpp
+|   WideScreen.h
+|   Win.cpp
+|   Win.h
+|   WindowTray.cpp
+|   WindowTray.h
+|   WinEx.cpp
+|   WinEx.h
+|   Winmain.cpp
+|   Winmain.h
+|   WSclient.cpp
+|   WSclient.h
+|   wsclientinline.h
+|   WSctlc.cpp
+|   wsctlc.h
+|   wsctlc_addon.h
+|   w_BaseMap.h
+|   w_BasePet.cpp
+|   w_BasePet.h
+|   w_Buff.cpp
+|   w_Buff.h
+|   w_BuffScriptLoader.cpp
+|   w_BuffScriptLoader.h
+|   w_BuffStateSystem.cpp
+|   w_BuffStateSystem.h
+|   w_BuffStateValueControl.cpp
+|   w_BuffStateValueControl.h
+|   w_BuffTimeControl.cpp
+|   w_BuffTimeControl.h
+|   w_CharacterInfo.cpp
+|   w_CharacterInfo.h
+|   w_Chat.cpp
+|   w_CursedTemple.cpp
+|   w_CursedTemple.h
+|   w_MapHeaders.h
+|   w_MapProcess.cpp
+|   w_MapProcess.h
+|   w_ObjectInfo.cpp
+|   w_ObjectInfo.h
+|   w_PetAction.h
+|   w_PetActionCollecter.cpp
+|   w_PetActionCollecter.h
+|   w_PetActionCollecter_Add.cpp
+|   w_PetActionCollecter_Add.h
+|   w_PetActionDemon.cpp
+|   w_PetActionDemon.h
+|   w_PetActionRound.cpp
+|   w_PetActionRound.h
+|   w_PetActionStand.cpp
+|   w_PetActionStand.h
+|   w_PetActionUnicorn.cpp
+|   w_PetActionUnicorn.h
+|   w_PetProcess.cpp
+|   w_PetProcess.h
+|   w_WindowMessageHandler.h
+|   ZzzAI.cpp
+|   ZzzAI.h
+|   ZzzBMD.cpp
+|   ZzzBMD.h
+|   ZzzCharacter.cpp
+|   ZzzCharacter.h
+|   ZzzEffect.cpp
+|   ZzzEffect.h
+|   ZzzEffectBlurSpark.cpp
+|   ZzzEffectFireLeave.cpp
+|   ZzzEffectJoint.cpp
+|   ZzzEffectMagicSkill.cpp
+|   ZzzEffectNoUse.cpp
+|   ZzzEffectParticle.cpp
+|   ZzzEffectPoint.cpp
+|   ZzzEffectPointer.cpp
+|   zzzeffectsprite.cpp
+|   ZzzInfomation.cpp
+|   ZzzInfomation.h
+|   ZzzInterface.cpp
+|   ZzzInterface.h
+|   ZzzInventory.cpp
+|   ZzzInventory.h
+|   ZzzLodTerrain.cpp
+|   ZzzLodTerrain.h
+|   zzzMixInventory.h
+|   zzzMixInvetory.cpp
+|   ZzzObject.cpp
+|   ZzzObject.h
+|   ZzzOpenData.cpp
+|   ZzzOpenData.h
+|   ZzzOpenglUtil.cpp
+|   ZzzOpenglUtil.h
+|   zzzpath.cpp
+|   ZzzPath.h
+|   ZzzScene.cpp
+|   ZzzScene.h
+|   ZzzTexture.cpp
+|   ZzzTexture.h
+|   _define.h
+|   _enum.h
+|   _GlobalFunctions.cpp
+|   _GlobalFunctions.h
+|   _struct.h
+|   _TextureIndex.h
+|   _types.h
+|   
++---ExternalObject
+|   +---Chilkat
+|   |       Chilkat_C.h
+|   |       CkAesInterop.h
+|   |       CkAtom.h
+|   |       CkAtomProgress.h
+|   |       CkAtomW.h
+|   |       CkBounce.h
+|   |       CkBounceW.h
+|   |       CkByteData.h
+|   |       CkBz2.h
+|   |       CkBz2Progress.h
+|   |       CkBz2W.h
+|   |       CkCache.h
+|   |       CkCacheW.h
+|   |       CkCert.h
+|   |       CkCertChain.h
+|   |       CkCertChainW.h
+|   |       CkCertCollection.h
+|   |       CkCertCollectionW.h
+|   |       CkCertStore.h
+|   |       CkCertStoreW.h
+|   |       CkCertW.h
+|   |       CkCgi.h
+|   |       CkCharset.h
+|   |       CkCharsetW.h
+|   |       CkCompression.h
+|   |       CkCompressionW.h
+|   |       CkCreateCS.h
+|   |       CkCreateCSW.h
+|   |       CkCrypt.h
+|   |       CkCrypt2.h
+|   |       CkCrypt2Progress.h
+|   |       CkCrypt2W.h
+|   |       CkCSP.h
+|   |       CkCspW.h
+|   |       CkCsv.h
+|   |       CkCsvW.h
+|   |       CkDh.h
+|   |       CkDhProgress.h
+|   |       CkDhW.h
+|   |       CkDirTree.h
+|   |       CkDkim.h
+|   |       CkDkimProgress.h
+|   |       CkDsa.h
+|   |       CkDsaProgress.h
+|   |       CkDsaW.h
+|   |       CkEmail.h
+|   |       CkEmailBundle.h
+|   |       CkEmailBundleW.h
+|   |       CkEmailW.h
+|   |       CkFileAccess.h
+|   |       CkFileAccessW.h
+|   |       CkFileList.h
+|   |       CkFileListW.h
+|   |       CkFtp.h
+|   |       CkFtp2.h
+|   |       CkFtp2W.h
+|   |       CkFtpProgress.h
+|   |       CkGzip.h
+|   |       CkGzipProgress.h
+|   |       CkGzipW.h
+|   |       CkHtmlToText.h
+|   |       CkHtmlToTextW.h
+|   |       CkHtmlToXml.h
+|   |       CkHtmlToXmlW.h
+|   |       CkHttp.h
+|   |       CkHttpProgress.h
+|   |       CkHttpRequest.h
+|   |       CkHttpRequestW.h
+|   |       CkHttpResponse.h
+|   |       CkHttpResponseW.h
+|   |       CkHttpW.h
+|   |       CkIcon.h
+|   |       CkImap.h
+|   |       CkImapProgress.h
+|   |       CkImapW.h
+|   |       CkKeyContainer.h
+|   |       CkKeyContainerW.h
+|   |       CkMailboxes.h
+|   |       CkMailboxesW.h
+|   |       CkMailMan.h
+|   |       CkMailManW.h
+|   |       CkMailProgress.h
+|   |       CkMessageSet.h
+|   |       CkMessageSetW.h
+|   |       CkMht.h
+|   |       CkMhtProgress.h
+|   |       CkMhtW.h
+|   |       CkMime.h
+|   |       CkMimeW.h
+|   |       CkNtlm.h
+|   |       CkNtlmW.h
+|   |       CkObject.h
+|   |       CkObjectArray.h
+|   |       CkOmaDrm.h
+|   |       CkOmaDrmW.h
+|   |       CkPfx.h
+|   |       CkPfxW.h
+|   |       CkPrivateKey.h
+|   |       CkPrivateKeyW.h
+|   |       CkPublicKey.h
+|   |       CkPublicKeyW.h
+|   |       CkRar.h
+|   |       CkRarEntry.h
+|   |       CkRarEntryW.h
+|   |       CkRarW.h
+|   |       CkRsa.h
+|   |       CkRsaW.h
+|   |       CkRss.h
+|   |       CkRssProgress.h
+|   |       CkRssW.h
+|   |       CkService.h
+|   |       CkServiceW.h
+|   |       CkSettings.h
+|   |       CkSFtp.h
+|   |       CkSFtpDir.h
+|   |       CkSFtpDirW.h
+|   |       CkSFtpFile.h
+|   |       CkSFtpFileW.h
+|   |       CkSFtpProgress.h
+|   |       CkSFtpW.h
+|   |       CkSocket.h
+|   |       CkSocketProgress.h
+|   |       CkSocketW.h
+|   |       CkSocksProxy.h
+|   |       CkSocksProxyProgress.h
+|   |       CkSocksProxyW.h
+|   |       CkSpider.h
+|   |       CkSpiderProgress.h
+|   |       CkSpiderW.h
+|   |       CkSsh.h
+|   |       CkSshKey.h
+|   |       CkSshKeyW.h
+|   |       CkSshProgress.h
+|   |       CkSshTunnel.h
+|   |       CkSshTunnelW.h
+|   |       CkSshW.h
+|   |       CkString.h
+|   |       CkStringArray.h
+|   |       CkStringArrayW.h
+|   |       CkTar.h
+|   |       CkTarProgress.h
+|   |       CkTarW.h
+|   |       CkUnixCompress.h
+|   |       CkUnixCompressW.h
+|   |       CkUpload.h
+|   |       CkUploadW.h
+|   |       CkXml.h
+|   |       CkXmlW.h
+|   |       CkXmp.h
+|   |       CkXmpW.h
+|   |       CkZip.h
+|   |       CkZipCrc.h
+|   |       CkZipEntry.h
+|   |       CkZipEntryW.h
+|   |       CkZipProgress.h
+|   |       CkZipW.h
+|   |       C_CkAtom.h
+|   |       C_CkBounce.h
+|   |       C_CkByteData.h
+|   |       C_CkBz2.h
+|   |       C_CkCert.h
+|   |       C_CkCertStore.h
+|   |       C_CkCgi.h
+|   |       C_CkCharset.h
+|   |       C_CkCkSettings.h
+|   |       C_CkCompression.h
+|   |       C_CkCreateCS.h
+|   |       C_CkCrypt2.h
+|   |       C_CkCsp.h
+|   |       C_CkDh.h
+|   |       C_CkDsa.h
+|   |       C_CkEmail.h
+|   |       C_CkEmailBundle.h
+|   |       C_CkFtp2.h
+|   |       C_CkGzip.h
+|   |       C_CkHtmlToText.h
+|   |       C_CkHtmlToXml.h
+|   |       C_CkHttp.h
+|   |       C_CkHttpRequest.h
+|   |       C_CkHttpResponse.h
+|   |       C_CkImap.h
+|   |       C_CkKeyContainer.h
+|   |       C_CkMailboxes.h
+|   |       C_CkMailMan.h
+|   |       C_CkMessageSet.h
+|   |       C_CkMht.h
+|   |       C_CkMime.h
+|   |       C_CkNtlm.h
+|   |       C_CkPrivateKey.h
+|   |       C_CkPublicKey.h
+|   |       C_CkRar.h
+|   |       C_CkRarEntry.h
+|   |       C_CkRsa.h
+|   |       C_CkRss.h
+|   |       C_CkSFtp.h
+|   |       C_CkSFtpDir.h
+|   |       C_CkSFtpFile.h
+|   |       C_CkSocket.h
+|   |       C_CkSpider.h
+|   |       C_CkSsh.h
+|   |       C_CkSshKey.h
+|   |       C_CkSshTunnel.h
+|   |       C_CkString.h
+|   |       C_CkStringArray.h
+|   |       C_CkTar.h
+|   |       C_CkUnixCompress.h
+|   |       C_CkUpload.h
+|   |       C_CkXml.h
+|   |       C_CkXmp.h
+|   |       C_CkZip.h
+|   |       C_CkZipCrc.h
+|   |       C_CkZipEntry.h
+|   |       FileTime.h
+|   |       int64.h
+|   |       SystemTime.h
+|   |       
+|   +---Leaf
+|   |       callstackdmp.cpp
+|   |       callstackdmp.h
+|   |       checkintegrity.cpp
+|   |       checkintegrity.h
+|   |       ExceptionHandler.cpp
+|   |       ExceptionHandler.h
+|   |       html_log.cpp
+|   |       html_log.h
+|   |       peimage.cpp
+|   |       peimage.h
+|   |       rdtsc.h
+|   |       regkey.h
+|   |       stdleaf.cpp
+|   |       stdleaf.h
+|   |       sysinfo.cpp
+|   |       sysinfo.h
+|   |       xortrans.cpp
+|   |       xortrans.h
+|   |       xstreambuf.cpp
+|   |       xstreambuf.h
+|   |       
+|   \---ResourceGuard
+|           MuRGReport.h
+|           ResourceGuard.h
+|           RGReportConsole.h
+|           RGReportObj.h
+|           
++---GameShop
+|   |   InGameShopSystem.cpp
+|   |   InGameShopSystem.h
+|   |   MsgBoxIGSBuyConfirm.cpp
+|   |   MsgBoxIGSBuyConfirm.h
+|   |   MsgBoxIGSBuyPackageItem.cpp
+|   |   MsgBoxIGSBuyPackageItem.h
+|   |   MsgBoxIGSBuySelectItem.cpp
+|   |   MsgBoxIGSBuySelectItem.h
+|   |   MsgBoxIGSCommon.cpp
+|   |   MsgBoxIGSCommon.h
+|   |   MsgBoxIGSDeleteItemConfirm.cpp
+|   |   MsgBoxIGSDeleteItemConfirm.h
+|   |   MsgBoxIGSGiftStorageItemInfo.cpp
+|   |   MsgBoxIGSGiftStorageItemInfo.h
+|   |   MsgBoxIGSSendGift.cpp
+|   |   MsgBoxIGSSendGift.h
+|   |   MsgBoxIGSSendGiftConfirm.cpp
+|   |   MsgBoxIGSSendGiftConfirm.h
+|   |   MsgBoxIGSStorageItemInfo.cpp
+|   |   MsgBoxIGSStorageItemInfo.h
+|   |   MsgBoxIGSUseBuffConfirm.cpp
+|   |   MsgBoxIGSUseBuffConfirm.h
+|   |   MsgBoxIGSUseItemConfirm.cpp
+|   |   MsgBoxIGSUseItemConfirm.h
+|   |   NewUIInGameShop.cpp
+|   |   NewUIInGameShop.h
+|   |   
+|   +---FileDownloader
+|   |       DownloadInfo.cpp
+|   |       FileDownloader.cpp
+|   |       FTPConnecter.cpp
+|   |       FTPConnecter.h
+|   |       HTTPConnecter.cpp
+|   |       HTTPConnecter.h
+|   |       Include.h
+|   |       
+|   \---ShopListManager
+|       |   BannerInfo.cpp
+|       |   BannerInfo.h
+|       |   BannerInfoList.cpp
+|       |   BannerInfoList.h
+|       |   BannerListManager.cpp
+|       |   BannerListManager.h
+|       |   FTPFileDownLoader.cpp
+|       |   FTPFileDownLoader.h
+|       |   Include.h
+|       |   ListManager.cpp
+|       |   ListManager.h
+|       |   ShopCategory.cpp
+|       |   ShopCategory.h
+|       |   ShopCategoryList.cpp
+|       |   ShopCategoryList.h
+|       |   ShopList.cpp
+|       |   ShopList.h
+|       |   ShopListManager.cpp
+|       |   ShopListManager.h
+|       |   ShopPackage.cpp
+|       |   ShopPackage.h
+|       |   ShopPackageList.cpp
+|       |   ShopPackageList.h
+|       |   ShopProduct.cpp
+|       |   ShopProduct.h
+|       |   ShopProductList.cpp
+|       |   ShopProductList.h
+|       |   StringMethod.cpp
+|       |   StringMethod.h
+|       |   StringToken.cpp
+|       |   StringToken.h
+|       |   
+|       \---interface
+|           |   DownloadInfo.h
+|           |   FileDownloader.h
+|           |   FTPConnecter.h
+|           |   HTTPConnecter.h
+|           |   IConnecter.h
+|           |   IDownloaderStateEvent.h
+|           |   Include.h
+|           |   
+|           +---PathMethod
+|           |       Path.cpp
+|           |       Path.h
+|           |       
+|           \---WZResult
+|                   ErrorCodeDefine.h
+|                   WZResult.cpp
+|                   WZResult.h
+|                   
++---Math
+|       ZzzMathLib.cpp
+|       ZzzMathLib.h
+|       
++---Nova Pasta
++---OpenGL3
+|   \---Shader
+|           Shader.cpp
+|           Shader.h
+|           
++---Time
+|       CTimCheck.cpp
+|       CTimCheck.h
+|       Timer.cpp
+|       Timer.h
+|       
++---Utilities
+|   |   Log.rar
+|   |   
+|   +---Dump
+|   |       CrashHandler.cpp
+|   |       CrashHandler.h
+|   |       CrashReporter.cpp
+|   |       CrashReporter.h
+|   |       Logger.cpp
+|   |       Logger.h
+|   |       Uploader.cpp
+|   |       Uploader.h
+|   |       
+|   +---Log
+|   |       DebugAngel.cpp
+|   |       DebugAngel.h
+|   |       ErrorReport.cpp
+|   |       ErrorReport.h
+|   |       muConsoleDebug.cpp
+|   |       muConsoleDebug.h
+|   |       WindowsConsole.cpp
+|   |       WindowsConsole.h
+|   |       
+|   \---Memory
+|           HashTable.h
+|           MemoryLock.cpp
+|           MemoryLock.h
+|           
++---Vox
+|   \---Main.tlog
+|           CL.command.1.tlog
+|           Cl.items.tlog
+|           CL.read.1.tlog
+|           CL.write.1.tlog
+|           link.command.1.tlog
+|           link.read.1.tlog
+|           link.secondary.1.tlog
+|           link.write.1.tlog
+|           Main.lastbuildstate
+|           rc.command.1.tlog
+|           rc.read.1.tlog
+|           rc.write.1.tlog
+|           
+\---VoxDebug
+    \---Main.tlog
+            CL.command.1.tlog
+            Cl.items.tlog
+            CL.read.1.tlog
+            CL.write.1.tlog
+            link.command.1.tlog
+            link.read.1.tlog
+            link.secondary.1.tlog
+            link.write.1.tlog
+            Main.lastbuildstate
+            rc.command.1.tlog
+            rc.read.1.tlog
+            rc.write.1.tlog
+            
